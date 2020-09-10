@@ -1,0 +1,3 @@
+# Introduction
+One of the major problems today is Road Safety. Road accidents can be serious or even fatal. The aim of this project is to build a model that predicts the severity of road accidents in Seattle City with attributes as light conditions and weather.
+The target audience of this project would be the local authorities for them to help and predict the area / address where road accidents may occur in the future. This could later on lead to applying new road safety measures for the specific areas.
